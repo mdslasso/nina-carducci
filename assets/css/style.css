@@ -417,30 +417,5 @@ input[type="submit"] {
 	}
 
 
-	.carousel-item img {
-		width: 100%;
 
-
-	}
-
-	#gallery img {
-		width: 100%;
-		object-fit: cover;
-
-
-	}
-
-	#contact img {
-		width: 100%;
-
-
-
-	}
-
-	#about img {
-		width: 100%;
-
-
-
-	}
 }
