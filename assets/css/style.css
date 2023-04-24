@@ -419,26 +419,27 @@ input[type="submit"] {
 
 	.carousel-item img {
 		width: 100%;
-
+		height: 200px;
 
 	}
 
 	#gallery img {
 		width: 100%;
+		height: 300px;
 
 
 	}
 
 	#contact img {
 		width: 100%;
-
+		height: 200px;
 
 
 	}
 
 	#about img {
 		width: 100%;
-
+		height: 200px;
 
 
 	}
