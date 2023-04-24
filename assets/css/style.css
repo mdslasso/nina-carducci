@@ -417,5 +417,18 @@ input[type="submit"] {
 	}
 
 
+	.carousel-item img {
+		width: 100%;
+		margin: auto;
+		padding: 10px;
+
+	}
+
+	#gallery img {
+		width: 100%;
+		margin: auto;
+		padding: 10px;
+
+	}
 
 }
