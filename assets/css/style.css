@@ -110,10 +110,6 @@ body {
 	/*	min-height: 100vh; */
 }
 
-#gallery img {
-	width: 100%;
-	height: 450px;
-}
 
 
 .title {
@@ -233,10 +229,6 @@ body {
 	padding-block: 100px;
 }
 
-#contact img {
-	width: 100%;
-	height: 350px;
-}
 
 
 
@@ -379,11 +371,6 @@ input[type="submit"] {
 }
 
 
-.carousel-item img {
-	height: 420px;
-
-}
-
 @media all and (max-width: 650px) {
 	.top-header {
 		flex-direction: column;
@@ -430,17 +417,5 @@ input[type="submit"] {
 	}
 
 
-	.carousel-item img {
-		width: 98%;
-		height: 250px;
-		margin: auto;
-
-	}
-
-	#gallery img {
-		width: 98%;
-		height: 350px;
-		margin: auto;
-	}
 
 }
