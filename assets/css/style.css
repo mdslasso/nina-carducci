@@ -431,13 +431,16 @@ input[type="submit"] {
 
 
 	.carousel-item img {
+		width: 98%;
 		height: 250px;
+		margin: auto;
 
 	}
 
 	#gallery img {
-		width: 100%;
+		width: 98%;
 		height: 350px;
+		margin: auto;
 	}
 
 }
