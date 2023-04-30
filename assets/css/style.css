@@ -191,6 +191,14 @@ body {
 	position: relative;
 }
 
+#services h2 {
+	width: 200px;
+}
+
+#services h3 {
+	width: 300px;
+}
+
 #services .container::before {
 	content: ' ';
 	background-color: #1C6474;
@@ -227,6 +235,11 @@ body {
 	position: relative;
 	padding-inline: 100px;
 	padding-block: 100px;
+}
+
+
+#contact h1 {
+	width: 700px;
 }
 
 
